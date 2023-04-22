@@ -1,4 +1,4 @@
-# API Fuso Horário
+# Desafio 2 - API Fuso Horário
 Criação de uma API em FastAPI com um endpoint que retorna o horário atual dos fusos horários (GMT - 3) e (GMT - 5).
 O fuso horário é passado como um parâmetro da API.
 
